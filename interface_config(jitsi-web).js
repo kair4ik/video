@@ -136,7 +136,7 @@ var interfaceConfig = {
     /**
      * Specify custom URL for downloading android mobile app.
      */
-    MOBILE_DOWNLOAD_LINK_ANDROID: 'https://play.google.com/store/apps/details?id=q-chat12',
+    MOBILE_DOWNLOAD_LINK_ANDROID: 'https://play.google.com/store/apps/details?id=q-chat19',
 
     /**
      * Specify custom URL for downloading f droid app.
@@ -254,12 +254,12 @@ var interfaceConfig = {
     /**
      * Specify mobile app scheme for opening the app from the mobile browser.
      */
-    APP_SCHEME: 'q-chat10',
+    APP_SCHEME: 'q-chat20',
 
     /**
      * Specify the Android app package name.
      */
-     ANDROID_APP_PACKAGE: 'q-chat11-package',
+     ANDROID_APP_PACKAGE: 'q-chat21-package',
 
     /**
      * Override the behavior of some notifications to remain displayed until
